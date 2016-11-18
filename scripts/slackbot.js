@@ -3,6 +3,8 @@
 // contol C to come out of testing shell
 // up arrow bring up the commands you wrote before
 
+// chnages the coffeescript to java script and creates a new file with vanilla java script coffee -c -o output-file.js source-file.coffee
+
 // Description:
 // <description of this script's functionality>
 //
